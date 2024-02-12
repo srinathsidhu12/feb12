@@ -4,3 +4,5 @@
 *.txt
 
 !two.txt
+
+[aeious]*.txt
